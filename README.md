@@ -12,7 +12,6 @@ A software developer passionate about clean code, deep problem-solving, and mast
 
 📫 Reach me: [Email](mailto:sara.kovner@gmail.com) | [GitHub](https://github.com/SaraKovner)  
 
-
 ![Profile views](https://komarev.com/ghpvc/?username=SaraKovner&color=blue)
 
 ---
