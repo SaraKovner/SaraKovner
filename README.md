@@ -33,6 +33,20 @@ I'm open to interesting ideas, technical challenges, or meaningful collaboration
   <img alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32" height="32"/>
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32"/>
   <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32"/>
+  <p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs&theme=light" />
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,dotnet&theme=light" />
+  <!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" />
+  <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode,visualstudio,eclipse&theme=light" />
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=gcp&theme=light" />
+</p>
+
 </p>
 
 ---
