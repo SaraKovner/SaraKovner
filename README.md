@@ -19,16 +19,28 @@ A software developer passionate about clean code, deep problem-solving, and mast
 ## 🧠 Languages & Technologies
 <p>
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,ts&theme=light" />
+  
   <!-- Web -->
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nodejs,dotnet&theme=light" />
+  
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
   <img height="42" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" />
+  
   <!-- OS -->
   <img src="https://skillicons.dev/icons?i=linux&theme=light" />
+  
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode,visualstudio,eclipse&theme=light" />
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode,visualstudio,eclipse,git,cmake&theme=light" />
+</p>
+
+
+### Chip Design & Verification
+<p>
+  <img height="42" src="./assets/icons/verilog.png" alt="Verilog" />
+  <img height="42" src="./assets/icons/systemverilog.png" alt="SystemVerilog" />
+  <img height="42" src="./assets/icons/uvm.png" alt="UVM" />
 </p>
 
 ---
