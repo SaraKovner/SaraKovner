@@ -38,9 +38,9 @@ A software developer passionate about clean code, deep problem-solving, and mast
 
 ### Chip Design & Verification
 <p>
-  <img height="42" src="./icons/verilog.svg" alt="Verilog" />
-  <img height="42" src="./icons/systemverilog.svg" alt="SystemVerilog" />
-  <img height="42" src="./icons/UVM.jpg" alt="UVM" />
+  <img height="42" width="42" src="./icons/verilog.svg" alt="Verilog" />
+  <img height="42" width="42" src="./icons/systemverilog.svg" alt="SystemVerilog" />
+  <img height="42" width="42" src="./icons/UVM.jpg" alt="UVM" />
 </p>
 
 ---
