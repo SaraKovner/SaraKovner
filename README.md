@@ -19,10 +19,10 @@ A software developer passionate about clean code, deep problem-solving, and mast
 ## 🧠 Languages & Technologies
 <p>
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,ts&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=light" />
   
   <!-- Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nodejs,dotnet&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,dotnet&theme=light" />
   
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
@@ -38,9 +38,9 @@ A software developer passionate about clean code, deep problem-solving, and mast
 
 ### Chip Design & Verification
 <p>
-  <img height="42" src="./assets/icons/verilog.png" alt="Verilog" />
-  <img height="42" src="./assets/icons/systemverilog.png" alt="SystemVerilog" />
-  <img height="42" src="./assets/icons/uvm.png" alt="UVM" />
+  <img height="42" src="./icons/verilog.svg" alt="Verilog" />
+  <img height="42" src="./icons/systemverilog.svg" alt="SystemVerilog" />
+  <img height="42" src="./icons/UVM.jpg" alt="UVM" />
 </p>
 
 ---
