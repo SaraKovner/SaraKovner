@@ -38,15 +38,9 @@ A software developer passionate about clean code, deep problem-solving, and mast
 
 ### Chip Design & Verification
 <p>
-  <span style="display:inline-block;border-radius:12px;background:#f4f2ed;padding:6px;margin-right:8px;">
-    <img height="30" width="30" src="./icons/verilog.svg" alt="Verilog" />
-  </span>
-  <span style="display:inline-block;border-radius:12px;background:#f4f2ed;padding:6px;margin-right:8px;">
-    <img height="30" width="30" src="./icons/systemverilog.svg" alt="SystemVerilog" />
-  </span>
-  <span style="display:inline-block;border-radius:12px;background:#f4f2ed;padding:6px;">
-    <img height="30" width="30" src="./icons/UVM.png" alt="UVM" />
-  </span>
+  <img height="42" width="42" src="./icons/verilog.svg" alt="Verilog" />
+  <img height="42" width="42" src="./icons/systemverilog.svg" alt="SystemVerilog" />
+  <img height="42" width="42" src="./icons/UVM.png" alt="UVM" />
 </p>
 
 ---
